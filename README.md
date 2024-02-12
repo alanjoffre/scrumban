@@ -1,2 +1,2 @@
-# SCRUMBAN
+# SCRUMBAN+
 - Repositório com: artigos, aprendizados, exercícios e projetos.
